@@ -6,19 +6,18 @@ const styles = StyleSheet.create({
         backgroundColor: '#8257E5',
         justifyContent: "center",
         padding: 40,
-
     },
 
     banner:{
         width: '100%',
-        resizeMode: 'contain'
+        resizeMode: 'contain',
     },
 
     title:{
         color: '#FFF',
         fontSize: 20,
         lineHeight: 30,
-        marginTop: 80,
+        marginTop: 10,
         fontFamily: 'Poppins_400Regular'
     },
 
@@ -62,7 +61,6 @@ const styles = StyleSheet.create({
         lineHeight: 20,
         maxWidth: 140,
         marginTop: 40,
-
     }
 
 });
